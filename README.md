@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sohan Yadav</h1>
-<h3 align="center">Sr.DevOps Engineer at CloudDrove and i'm From India</h3>
+<h3 align="center">Sr.DevOps Engineer at CloudDrove</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sohanyadav" /> </p>
 
 - 🔭 I’m currently working on [CloudDrove](https://github.com/clouddrove)
 
-- 🌱 I’m currently learning **About kubernetes, security**
+- 👨‍💻 All of my projects are available at [https://github.com/clouddrove](https://github.com/clouddrove)
+
+- 📝 I regularly write articles on [https://medium.com/@sohan_yadav](https://medium.com/@sohan_yadav)
+
+- 💬 Ask me about **Ansible,terraform,kubernetes,docker,linux,aws**
 
 - 📫 How to reach me **sohan@clouddrove.com**
 
