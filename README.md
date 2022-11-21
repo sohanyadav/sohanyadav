@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan Yadav</h1>
-<h3 align="center">I'm A DevOps Freelancer</h3>
+<h3 align="center">I'm A DevOps Guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sohanyadav" /> </p>
 
