@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sohanyadav" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/cloudlovers](https://github.com/cloudlovers)
+- 👨‍💻 All of my projects are available at [https://github.com/cloudlovers](https://github.com/sohanyadav)
 
 - 📝 I regularly write articles on [https://medium.com/@sohan_yadav](https://medium.com/@sohan_yadav)
 
